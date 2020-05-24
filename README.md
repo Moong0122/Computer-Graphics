@@ -31,8 +31,20 @@ $ python3 2015004802-class2.py
 
 2. 결과
 
-![2-1](/Assignment2/image/2-1.png)
-![2-2](/Assignment2/image/2-2.png)
+<img src="/Assignment2/image/2-1.png" alt="2-1" height="400">
 
+<img src="/Assignment2/image/2-2.png" alt="2-2" height="400">
 
 ### [Assignment3](https://github.com/Moong0122/Computer-Graphics/tree/master/Assignment3)
+BVH file viewer 구현하기
+1. 사용 방법
+
+```
+$ python3 2015004802-class3.py
+```
+
+2. 결과
+
+<img src="/Assignment3/result1.gif" alt="3-1" width="400" height="400">
+
+<img src="/Assignment3/result2.gif" alt="3-2" width="400" height="400">
